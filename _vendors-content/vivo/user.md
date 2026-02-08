@@ -1,4 +1,4 @@
----
+why i now can activate shizuu---
 manufacturer: 
     - vivo
 
